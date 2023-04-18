@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>郎哲的随手记</title>
+  <title>王老师的随手记 - AI指南针</title>
   
   
   <link href="https://langzhessj.github.io/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://langzhessj.github.io/</id>
   
   <author>
-    <name>郎哲</name>
+    <name>王老师</name>
     
   </author>
   
