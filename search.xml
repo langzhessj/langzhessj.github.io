@@ -4,73 +4,31 @@
   
     
     <entry>
-      <title>Hello Hexo  hi</title>
-      <link href="/2023/04/10/hi/"/>
-      <url>/2023/04/10/hi/</url>
+      <title>手把手教你搭建专属自己的梯子🪜第一步</title>
+      <link href="/2023/05/10/hi/"/>
+      <url>/2023/05/10/hi/</url>
       
-        <content type="html"><![CDATA[<p>ssslh d</p>]]></content>
+        <content type="html"><![CDATA[<p>梯子买不到，买了不知道好不好用，用了又担心不全，又经常用不了，等等等头疼问题。我都能帮你解决。助你免费爬梯子！！！！！！！！！！！</p><h2 id="第一步-注册AWS账号"><a href="#第一步-注册AWS账号" class="headerlink" title="第一步 注册AWS账号"></a>第一步 注册AWS账号</h2><p><a href="https://mp.weixin.qq.com/s/iXxaa1Td1RsxrL2-yy18gw">梯子公众号</a><br><a href="https://t.zsxq.com/0dVkCakTY">梯子星球</a><br><img src="/images/midtx.png" alt="头像"></p><ul><li>打开AWS官网，AWS 云服务-专业的大数据和云计算服务以及云解决方案提供商 (amazon.com)，找到【免费套餐】</li></ul><p><img src="/images/wx2wma.png" alt="免费注册"><br><img src="/images/aws/awsmf.png" alt="免费注册"></p><p>这里面一定要选择“海外区域”进行注册，勿选择“中国区域”否则…懂得都懂</p><p><img src="/images/aws/awshw.png" alt="免费注册"></p><ul><li>输入电子邮件地址、密码和AWS账号名称。</li></ul><p><img src="/images/aws/awsregist.png" alt="免费注册"></p><ul><li><p>填写个人或公司信息，包括姓名、地址、国家&#x2F;地区、电话号码等。</p></li><li><p>输入信用卡或借记卡信息，AWS会在你注册后向你的信用卡或借记卡收取1美元，这是为了验证你的卡是否有效。验证完成后，这1美元将会退还给你。</p></li><li><p>阅读AWS服务条款和隐私声明，并同意。</p></li><li><p>点击“创建AWS账号和继续”按钮。</p></li><li><p>AWS会发送一封确认邮件到你的电子邮件地址，你需要点击邮件中的链接进行验证。</p></li><li><p>验证完成后，你就可以登录AWS控制台开始使用AWS服务了。</p></li></ul><h2 id="AWS账号安全"><a href="#AWS账号安全" class="headerlink" title="AWS账号安全"></a>AWS账号安全</h2><p>AWS账号安全非常重要，你需要采取一些措施来保护你的账号。首先，你需要为你的账号启用多重身份验证（MFA），这样即使有人知道你的密码，也无法登录你的账号。其次，你需要为你的账号设置强密码，包括大小写字母、数字和特殊字符。最后，你需要定期检查你的账号活动，确保没有异常操作。</p><h2 id="结论"><a href="#结论" class="headerlink" title="结论"></a>结论</h2><p>AWS是一个强大而又易于使用的云计算服务平台，注册AWS账号非常简单。注册后，你可以免费使用多个AWS服务，但需要注意免费使用套餐的限制。同时，你需要确保AWS账号安全，避免账号被黑客攻击。希望这篇博文能够帮助你成功注册AWS账号，开始使用AWS服务。</p><h2 id="划重点"><a href="#划重点" class="headerlink" title="划重点"></a>划重点</h2><p>划重点、划重点、划重点。扫码加好友、关注、有偿手把手帮你搭建梯子。</p><p><img src="/images/wx2wma.png" alt="免费注册"></p>]]></content>
       
       
       <categories>
           
-          <category> cate </category>
+          <category> 梯子 </category>
+          
+          <category> 教学 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> Tag1 </tag>
+            <tag> 梯子 </tag>
+            
+            <tag> 教学 </tag>
+            
+            <tag> 魔法 </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello Hexo</title>
-      <link href="/2023/04/10/Hello-Hexo/"/>
-      <url>/2023/04/10/Hello-Hexo/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> cate原始 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Tag1 </tag>
-            
-            <tag> Tag2 </tag>
-            
-            <tag> Tag3 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hello World</title>
-      <link href="/2023/04/10/hello-world/"/>
-      <url>/2023/04/10/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> cate1 </category>
-          
-      </categories>
-      
       
     </entry>
     
